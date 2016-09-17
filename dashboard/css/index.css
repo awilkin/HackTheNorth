@@ -35,6 +35,10 @@ a {
     color: #f44336;
 }
 
+.kpi-yellow {
+    color: #fdd835;
+}
+
 .kpi-subtext {
     font-size: 3em;
 }
