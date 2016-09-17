@@ -1,0 +1,40 @@
+nav a {
+    color:#fff;
+}
+
+a {
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.top-nav {
+    background-color: #1a237e;
+}
+
+.page-title {
+    font-size: 2em;
+}
+
+.card-title {
+    font-size: 26em;
+}
+
+.card-content-top {
+    height:200px;
+}
+
+.kpi {
+    font-size: 7em;
+}
+
+.kpi-green {
+    color: #76ff03; 
+}
+
+.kpi-subtext {
+    font-size: 3em;
+}
+
+.kpi-desc {
+    font-size: 2em;
+}
