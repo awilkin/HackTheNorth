@@ -43,11 +43,19 @@ a {
     font-size: 3em;
 }
 
+.kpi-subtext-full {
+    font-size: 3em;
+}
+
 .kpi-desc {
     font-size: 1.7em;
-    line-height: 0px;
+    line-height: 18px;
 }
 
 .card-reveal > .row {
     line-height:0px;
+}
+
+.card-title {
+    color: #76ff03;
 }
